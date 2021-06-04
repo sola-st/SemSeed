@@ -1,0 +1,6 @@
+**/node_modules/**
+**/.idea/**
+**/semseed_venv/**
+__pycache__/
+.ipynb_checkpoints
+**/.git/**
