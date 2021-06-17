@@ -2,7 +2,8 @@ Semantic Bug Seeding: A Learning-Based Approach for Creating Realistic Bugs 🐞
 ---
 
 * Please find our artefact as archive : [zenodo](https://zenodo.org/record/4901843) 
-* Becauce of space limitations, we do not include the required _benchmark_ folder. Please download it from the archive at zenodo.
+* Because of space limitations, we do not include the required _benchmark_ folder. Please download it from the archive at zenodo.
+  
 ## Requirements
 
 - Node.js v14.17.0
