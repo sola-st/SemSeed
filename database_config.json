@@ -1,0 +1,8 @@
+{
+  "database_name": "SemSeed_github_commits_db",
+  "host": "127.0.0.1",
+  "port": 27017,
+  "username": "semSeedUser",
+  "password": "semSeedPassWord124",
+  "collection_name": "commits"
+}
